@@ -2,12 +2,19 @@
 # Create a repo and then do the below via Github CLI or CMD or VSCode Terminal        
 
 gh repo create                                 //Use GitHub CLI
+
 git clone <repo_https>                        // My repo
+
 git init
+
 git branch
+
 git remote -v
+
 git add .
+
 git commit -m "Created app.js"
+
 git push origin main  or  git push -u origin main
 
 ___________________________________________________________________
@@ -18,11 +25,14 @@ React-app creation:
 
 npx create-react-app my-app                 // Then Do the git add .
 
+
 Edit the file:
 -------------
 
 Edit - src/app.js
+
 Edit - src/app.css
+
 If needed create a file
 
 
