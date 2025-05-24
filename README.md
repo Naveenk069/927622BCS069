@@ -1,9 +1,11 @@
 
 # Create a repo and then do the below via Github CLI or CMD or VSCode Terminal        
 
-gh repo create                                 //Use GitHub CLI
+gh repo create                               
+//Use GitHub CLI
 
-git clone <repo_https>                        // My repo
+git clone <repo_https>                  
+// My repo
 
 git init
 
@@ -23,7 +25,8 @@ ___________________________________________________________________
 React-app creation:
 -------------------
 
-npx create-react-app my-app                 // Then Do the git add .
+npx create-react-app my-app                 
+// Then Do the git add .
 
 
 Edit the file:
@@ -47,7 +50,6 @@ ___________________________________________________________________
 
 # OUTPUTS:
 
-=======
 # Output for Stock-price-aggregation.png
 view here - https://github.com/Naveenk069/927622BCS069/blob/main/stock-price-aggregator/Stock-price-aggregation.png
 
