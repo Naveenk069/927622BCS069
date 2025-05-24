@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Create arepo and then do anything         // Make sure that the graph should be vary in GitHub
 
 gh repo create
@@ -32,6 +33,8 @@ ___________________________________________________________________
 
 # OUTPUTS:
 
+=======
+>>>>>>> 7bb6476aec2ffff8d430dc46cc4569a2f46e57fa
 # Output for Stock-price-aggregation.png
 view here - https://github.com/Naveenk069/927622BCS069/blob/main/stock-price-aggregator/Stock-price-aggregation.png
 
