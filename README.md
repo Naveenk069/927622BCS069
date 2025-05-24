@@ -1,11 +1,12 @@
 
 # Create a repo and then do the below via Github CLI or CMD or VSCode Terminal        
-
-gh repo create                               
+                          
 //Use GitHub CLI
+gh repo create     
+Enter the details 
 
-git clone <repo_https>                  
 // My repo
+git clone <repo_https>                  
 
 git init
 
@@ -26,7 +27,9 @@ React-app creation:
 -------------------
 
 npx create-react-app my-app                 
-// Then Do the git add .
+
+
+Then Do the git add . command, Then commit and push the code
 
 
 Edit the file:
